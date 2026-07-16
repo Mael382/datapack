@@ -16,6 +16,10 @@
     {
       "condition": "minecraft:reference",
       "name": "herobrine:fishing/is_in_crystal_cave"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "herobrine:fishing/is_in_volcanic_highlands"
     }
   ]
 }
