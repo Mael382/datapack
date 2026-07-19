@@ -5,8 +5,7 @@
   },
   "gives": {
     "id": "minecraft:pufferfish",
-    "count": 25
+    "count": 8
   },
-  "reputation_discount": 0.4,
   "xp": 6
 }
