@@ -1,6 +1,7 @@
 {
-       "pack": {
-           "pack_format": 84,
-           "description": "Datapack principal d'Herobrine.fr"
-       }
+  "pack": {
+    "description": "Datapack principal d'Herobrine.fr",
+    "min_format": [101, 1],
+    "max_format": [101, 1]
+  }
 }
